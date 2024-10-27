@@ -56,4 +56,15 @@ We opened the ticket and see the main page. We are going to be the person that u
 	SLA, and 
 	Assigned To.
 
+ ![image](https://github.com/user-attachments/assets/2c16bf1f-0da0-460f-bb3a-8d96b170703e)
+
+I logged in as "Jane" who works in the mobile banking department. The ticket showed up properly. We will work the ticket as Jane.
+
+![image](https://github.com/user-attachments/assets/a0273633-6813-430e-b9fd-a9d4fb1f4e49)
+![image](https://github.com/user-attachments/assets/d51d08d9-3a28-4577-94d5-50ffbc6dc502)
+
+Jane worked the ticket and suspected it was due to an update, the update was uninstalled and everything was rolled-back and the vendor was notified. 
+
+
+
 
