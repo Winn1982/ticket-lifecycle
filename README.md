@@ -65,6 +65,19 @@ I logged in as "Jane" who works in the mobile banking department. The ticket sho
 
 Jane worked the ticket and suspected it was due to an update, the update was uninstalled and everything was rolled-back and the vendor was notified. 
 
+![image](https://github.com/user-attachments/assets/417d79c2-3ed4-4379-8df3-ca18a97b09fd)
+
+Jane resolved the ticket and closed the ticket. 
+
+![image](https://github.com/user-attachments/assets/f3c09819-2c76-473a-996c-440dda233f2b)
+
+New ticket from Ken, stating Adobe cannot be accessed by the accounting department, needs an upgrade. 
+
+![image](https://github.com/user-attachments/assets/fd99eb7a-602f-4c9d-afcf-b98ca5e948cc)
+
+John was assigned the ticket, customer stated that only two people were unable to access Adobe Reader. Customer would restart computers and call back. Customer called back and this fixed the issue. Ticket was closed. 
+
+
 
 
 
