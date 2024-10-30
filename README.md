@@ -83,7 +83,11 @@ Karen created a ticket that stated the CFO's laptop would not turn on. We will b
 
 ![image](https://github.com/user-attachments/assets/bcfea913-b2b1-4ca9-96f2-aae2577a267b)
 
-In the scenario, it was determined the problem was a faulty charger and a new one was brought to him. 
+In the scenario, it was determined the problem was a faulty charger and a new one was brought to him. The ticket was set to resolved. 
+
+
+
+
 
 
 
