@@ -77,6 +77,13 @@ New ticket from Ken, stating Adobe cannot be accessed by the accounting departme
 
 John was assigned the ticket, customer stated that only two people were unable to access Adobe Reader. Customer would restart computers and call back. Customer called back and this fixed the issue. Ticket was closed. 
 
+![image](https://github.com/user-attachments/assets/25dbf066-81e4-456a-8a61-88b9b6ab4dc5)
+
+Karen created a ticket that stated the CFO's laptop would not turn on. We will be working the ticket as John.  
+
+![image](https://github.com/user-attachments/assets/bcfea913-b2b1-4ca9-96f2-aae2577a267b)
+
+In the scenario, it was determined the problem was a faulty charger and a new one was brought to him. 
 
 
 
